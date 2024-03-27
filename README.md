@@ -1,4 +1,4 @@
-# MICROSOFT COPILOTPROJECT AZURE900
+# MICROSOFT COPILOT PROJECT AZURE900
 
 Projeto realizado através do Microsoft Copilot, buscando conhecer e apreender as mecânicas da IA generativa. Uma ferramenta de excelência e que pode ser usada para inúmeras possibilidades: inclusão no mercado de trabalho; geração de imagens; guias e roteiros para viajens; busca de soluções para problemas empresariais. E muito mais outras infinitas oportunidades.
 
